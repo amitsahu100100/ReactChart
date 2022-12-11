@@ -98,7 +98,7 @@ const chart = () => {
             <h1 style={{ textAlign:'center'}}>Bar Chart</h1>
 
             <BarChart
-                width={300}
+                width={500}
                 height={300}
                 data={data}
                 margin={{

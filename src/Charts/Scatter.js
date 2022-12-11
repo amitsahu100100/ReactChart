@@ -113,7 +113,7 @@ const Scatter = () => {
                 <h1 style={{ textAlign:'center'}}>Scatter Chart</h1>  
                 
                 <LineChart
-                    width={300}
+                    width={500}
                     height={300}
                     data={data}
                     margin={{
