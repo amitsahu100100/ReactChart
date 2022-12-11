@@ -1,0 +1,12 @@
+body{
+  padding: 30px;
+}
+.recharts-wrapper {
+  margin: 0 auto;
+}
+@media(max-width:500px){
+  .recharts-wrapper {
+    margin: 0 auto;
+    overflow: auto;
+  }
+}
