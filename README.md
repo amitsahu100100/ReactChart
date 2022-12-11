@@ -1,5 +1,5 @@
  # step 1
-## Project Repository URL
+## Project Repository URL, down load project from here
  https://github.com/amitsahu100100/ReactChart.git
 
 # step 2
